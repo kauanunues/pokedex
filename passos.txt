@@ -6,5 +6,4 @@ Criar um projeto AspNet MVC
 dotnet new mvc -o Pokedex
 
 Executar o projeto
-
 dotnet watch run 
